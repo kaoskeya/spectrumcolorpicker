@@ -26,7 +26,7 @@ In the schema, which will then work with a `quickForm` or `afQuickFields`:
 ```js
 {
   date: {
-    type: Date,
+    type: String,
     autoform: {
       type: "spectrum-colorpicker"
     }
